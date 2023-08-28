@@ -34,7 +34,7 @@ Project intructions: (Follow these steps to reproduce the code and results)
 | [Database_Integration](Initialization\Database_Integration.ipynb) | Steps on data retrieval and storage | Jupyter Notebook |
 | [Task1_Regression](Task1_Regression\Task1_Regression.ipynb) | Steps on regression model exploration and building | Jupyter Notebook |
 | [Task2_Classification](Task2_Classification\Task2_Classification.ipynb) | Steps on classification model exploration and building | Jupyter Notebook |
-| [[project_db](Database\project.db) | Database used for data storage | Sqlite db file |
+| [project_db](Database\project.db) | Database used for data storage | Sqlite db file |
 | [housing_profiling](Task1_Regression\housing_profiling.html) | Profiling report done during EDA | HTML |
 | [healthcare_profiling](Task2_Classification\healthcare_profiling.html) | Profiling report done during EDA | HTML |
 | [healthcare-dataset-stroke-data](Initialization\healthcare-dataset-stroke-data.csv) , [housing](Initialization\housing.csv) , [marketing_campaign](Initialization\marketing_campaign.csv) | Downloaded data files from kaggle | csv |
